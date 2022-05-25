@@ -25,4 +25,8 @@
       <None Remove="log20220525.txt" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="application diagram.png" />
+    </ItemGroup>
+
 </Project>
