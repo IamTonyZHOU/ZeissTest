@@ -21,4 +21,8 @@
       <PackageReference Include="Websocket.Client" Version="4.4.43" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="log20220525.txt" />
+    </ItemGroup>
+
 </Project>
